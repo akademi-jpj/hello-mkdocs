@@ -1,0 +1,12 @@
+site_name: eTraining Manual
+theme:
+  name: material
+nav:  
+  - Pengenalan: index.md
+  - Pengurusan Kursus: 
+    - Jana Dokumen ISO: iso.md
+    - Isi Butiran Kursus: course_form.md
+    - Hapus Kursus: course_delete.md
+  - Jana Sijil: generate_cert.md
+    
+  
