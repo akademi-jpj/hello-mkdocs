@@ -1,4 +1,4 @@
-# Kaedah Penjanaan Sijil Kursus Akademi
+# Kaedah Penjanaan Sijil Kursus Akademi (kemaskini)
 
 ## Pengenalan
 
